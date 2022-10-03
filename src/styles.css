@@ -1,0 +1,21 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Monda', sans-serif;
+}
+
+.p-datatable .p-datatable-thead > tr > th {
+  text-align: center !important;
+}
+
+.p-dropdown {
+  width: 100% !important;
+}
+
+
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 3rem 0rem 3rem 0rem;
+}
+
+.headerArea {
+  display: flex;
+}
+
+.headerArea h3 {
+  margin-left: 1rem;
+}
+
+.pi-user {
+  padding-top: 5px;
+  font-size: 25px;
+}
+
+tr td {
+  text-align: center;
+}
+
+p-table button {
+  background-color: #E18F53;
+}
+
+.statusSignInactive {
+  border: 1px solid rgb(63, 63, 63);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: red;
+  margin: auto;
+}
+
+.statusSignActive {
+  border: 1px solid rgb(63, 63, 63);
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: greenyellow;
+  text-align: center;
+  margin: auto;
+}
+

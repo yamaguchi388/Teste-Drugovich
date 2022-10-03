@@ -1,0 +1,40 @@
+{
+  "clients": [
+    {
+      "name": "Auto-Peças Joaquim LTDA.",
+      "cnpj": "000000000000000",
+      "status": "Inativo",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Auto-Peças Carlinhos LTDA.",
+      "cnpj": "000000000000000",
+      "status": "Ativo"
+    },
+    {
+      "id": 3,
+      "name": "Auto-Peças João LTDA.",
+      "cnpj": "000000000000000",
+      "status": "Ativo"
+    },
+    {
+      "id": 4,
+      "name": "Auto-Peças Maria LTDA.",
+      "cnpj": "000000000000000",
+      "status": "Ativo"
+    },
+    {
+      "name": "kkkkkkkkkkkkkk",
+      "cnpj": "00.000.000/0000-00",
+      "status": "Ativo",
+      "id": 5
+    },
+    {
+      "name": "llllllllllllllllllll",
+      "cnpj": "00.000.000/0000-00",
+      "status": "Inativo",
+      "id": 6
+    }
+  ]
+}
